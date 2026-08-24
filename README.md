@@ -9,6 +9,7 @@ B.Tech CSE (AI) student at Amrita Vishwa Vidyapeetham(2024-28).
 - Building practical AI applications
 
 ## Currently working on
+- Dynamic Environment with spatial communication for transient, human-like communication
 - Explainable AI for feature pruning (product version)
 - Clinical predictions using LLM
 - Growing INIT Club through workshops, project meets, and open-source contributions
